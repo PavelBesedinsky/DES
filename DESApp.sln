@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DESApp", "DESApp\DESApp.csproj", "{F207B076-5DCB-4F5A-956F-86602EC07051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F207B076-5DCB-4F5A-956F-86602EC07051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F207B076-5DCB-4F5A-956F-86602EC07051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F207B076-5DCB-4F5A-956F-86602EC07051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F207B076-5DCB-4F5A-956F-86602EC07051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F7163A8-CD32-4BC7-8B64-B0C948188E65}
+	EndGlobalSection
+EndGlobal
